@@ -1,0 +1,6 @@
+{
+	"title": "$:/plugins/arlen22/WebSocketServer",
+	"description": "WebSocket Server module inspired by Jed Carty's TW5-MultiUser plugin",
+	"author": "Arlen22",
+	"core-version": ">=5.1.14"
+}
